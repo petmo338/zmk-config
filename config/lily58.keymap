@@ -82,7 +82,7 @@
 &trans    &kp LBKT &kp AMPS &kp ASTRK &kp LPAR  &kp RBKT                &trans      &trans    &trans    &trans   &trans    &trans
 &trans    &kp COLON &kp DOLLAR &kp PERCENT &kp CARET  &kp PLUS    &trans      &trans  &trans  &trans   &trans &trans
 &trans    &kp TILDE &kp EXCL &kp AT  &kp HASH  &kp PIPE   &trans   &trans    &trans &trans &trans &trans &trans  &trans
-                        &trans  &kb LPAR  &kp RPAR &kp UNDER  &trans    &trans      &trans    &trans
+                        &trans  &kp LPAR  &kp RPAR &kp UNDER  &trans    &trans      &trans    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
